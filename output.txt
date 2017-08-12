@@ -1,0 +1,7 @@
+Stop Words, nGram Range, Max Doc Frequency, Min Doc Frequency Naive Bayes, Logistic Regression, Linear SVC, Random Forest, 
+Stop Words None,ngram Range (1, 1),Max Doc Freq 1.0,Min Doc Freq 1,Naive Bayes, 0.274193548387,Logistic Regression, 0.39247311828,Linear SVC, 0.161290322581,Random Forest, 0.41935483871,
+Stop Words english,ngram Range (1, 1),Max Doc Freq 1.0,Min Doc Freq 1,Naive Bayes, 0.306451612903,Logistic Regression, 0.376344086022,Linear SVC, 0.161290322581,Random Forest, 0.44623655914,
+Stop Words None,ngram Range (1, 2),Max Doc Freq 1.0,Min Doc Freq 1,Naive Bayes, 0.306451612903,Logistic Regression, 0.387096774194,Linear SVC, 0.161290322581,Random Forest, 0.381720430108,
+Stop Words None,ngram Range (1, 1),Max Doc Freq 10,Min Doc Freq 1,Naive Bayes, 0.204301075269,Logistic Regression, 0.231182795699,Linear SVC, 0.161290322581,Random Forest, 0.322580645161,
+Stop Words None,ngram Range (1, 1),Max Doc Freq 1.0,Min Doc Freq 2,Naive Bayes, 0.290322580645,Logistic Regression, 0.39247311828,Linear SVC, 0.215053763441,Random Forest, 0.387096774194,
+Stop Words english,ngram Range (1, 3),Max Doc Freq 1.0,Min Doc Freq 2,Naive Bayes, 0.327956989247,Logistic Regression, 0.403225806452,Linear SVC, 0.220430107527,Random Forest, 0.381720430108,
