@@ -1,0 +1,4 @@
+Tokenizer, Stop Words, nGram Range, Max Doc Frequency, Min Doc Frequency, Naive Bayes, 
+Lancaster,None,(1- 1),1.0,1,0.446611909651,
+Lancaster,None,(1- 2),1.0,1,0.448665297741,
+Lancaster,None,(1- 3),1.0,1,0.433264887064,
